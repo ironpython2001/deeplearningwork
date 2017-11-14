@@ -3,7 +3,8 @@
 <pre>
 Project :
 Image/Object Recognition using Convolutional Neural Networks. 
-The DataSet used for the project is  CIFAR10 . However the solution that is provided in the project can also be applied to CIFAR 100 dataset 
+The DataSet used for the project is  CIFAR10 .
+However the solution that is provided in the project can also be applied to CIFAR 100 dataset 
 
 Software Requirements:
 Step-1:
