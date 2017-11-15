@@ -1,0 +1,13 @@
+# Useful Resources
+# https://github.com/fchollet/keras/blob/master/examples/cifar10_cnn.py
+# https://github.com/saurav-joshi/statistical-inferences
+# https://github.com/dribnet/kerosene/blob/master/examples/cifar100.py
+# https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+# https://machinelearningmastery.com/object-recognition-convolutional-neural-networks-keras-deep-learning-library/
+#https://github.com/ansrivas/keras-rest-server/blob/master/models/modelcreator.py
+#https://github.com/willard-yuan/flask-keras-cnn-image-retrieval
+#https://github.com/moinudeen/digit-recognizer-flask-cnn
+#https://github.com/llSourcell/how_to_deploy_a_keras_model_to_production
+#https://trainer.aetros.com/
+#https://github.com/SummaLabs/DLS
+#https://www.snip2code.com/Snippet/1044396/CIFAR100
