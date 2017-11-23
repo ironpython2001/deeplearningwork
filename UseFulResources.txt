@@ -34,3 +34,6 @@
 
 
 #https://dataplatform.ibm.com/analytics/notebooks/d96fa67b-14f1-4db7-8b60-1af3c13699c3/view?access_token=c31fd96333af39811a78fe7773e421a50c7e20a450badb653bf4e0db39dc8f3f
+
+A C# deep learning wrapper with CNTK backend
+https://github.com/deepakkumar1984/SiaNet
